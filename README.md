@@ -16,10 +16,10 @@ I wrote this program to learn more about the programming Language RUST. I also l
 # Development Environment
 
 ## Tools Used:
-Visual Studio Code IDE  
-    VS Code Extensions  
-    1. rust-analyzer
-    2. Rust Syntax
+Visual Studio Code IDE <br>
+VS Code Extensions <br>
+1. rust-analyzer <br>
+2. Rust Syntax
 
 Cargo (Dependency Manager)
 
