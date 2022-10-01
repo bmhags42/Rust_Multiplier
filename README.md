@@ -4,7 +4,7 @@ This is a simple calculator written in the RUST language. This software contains
 
 I wrote this program to learn more about the programming Language RUST. I also learned about using a GUI for easy human interaction with the program using the iced library. <br>
 
-Found within the syntax folder is a simple application showing basic syntax for Rust.
+Found within the src folder is the main.rs apllication as well as syntax.rs which is a simple application showing basic syntax for Rust.
 
 ## Running Program
 1. cd into Rust_Multiplier directory. Run the command "cargo run"
