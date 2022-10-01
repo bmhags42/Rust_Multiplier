@@ -7,8 +7,7 @@ I wrote this program to learn more about the programming Language RUST. I also l
 Found within the syntax folder is a simple application showing basic syntax for Rust.
 
 ## Running Program
-1. cd into multiplier directory. Run the command "cargo run"
-2. Run the "multiplier.exe" file. (Path: "multiplier\target\debug\multiplier.exe")
+1. cd into Rust_Multiplier directory. Run the command "cargo run"
 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
