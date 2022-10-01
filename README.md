@@ -2,11 +2,13 @@
 
 This is a simple calculator written in the RUST language. This software contains 2 values that can be increased and decreased with incrementer and decrementer buttons. After changing the two values, the Get Product button will return the product of the two values. 
 
+I wrote this program to learn more about the programming Language RUST. I also learned about using a GUI for easy human interaction with the program using the iced library. <br>
+
+Found within the syntax folder is a simple application showing basic syntax for Rust.
+
 ## Running Program
 1. cd into multiplier directory. Run the command "cargo run"
 2. Run the "multiplier.exe" file. (Path: "multiplier\target\debug\multiplier.exe")
-
-I wrote this program to learn more about the programming Language RUST. I also learned about using a GUI for easy human interaction with the program using the iced library. 
 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
